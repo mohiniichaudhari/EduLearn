@@ -1,0 +1,10 @@
+div{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#cntNotif{
+    bottom: 15px;
+    position: relative;
+    padding: 4px;  
+}
